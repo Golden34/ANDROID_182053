@@ -32,6 +32,7 @@ public class CajaActivity extends AppCompatActivity {
     {
         int num_aleatorio = 0;
 
+            // num ALeatorio Golden34
             num_aleatorio = ((int)(Math.random() * 10))+1;
 
         return num_aleatorio;
